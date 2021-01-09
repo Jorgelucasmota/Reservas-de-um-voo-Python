@@ -1,0 +1,33 @@
+Utilizando os conceitos de modularização, crie um sistema simples para controlar
+as reservas de um voo comercial. O avião em questão possui 20 filleiras com 4
+assentos cada uma.
+	X X X X
+	X X X X
+	X X X X
+	X X X X
+	X X X X
+	X X X X
+	X X X X
+	X X X X
+	X X X X
+	X X X X
+	X X X X
+	X X X X
+	X X X X
+	X X X X
+	X X X X
+	X X X X
+	X X X X
+	X X X X
+	X X X X
+	X X X X
+
+O programa deverá ter um menu para que o usuário possa navegar entre as
+opções abaixo:
+ Cadastro de Cliente (Nome, CPF) (0,4)
+ Consulta de Clientes (Pelo CPF) (0,4)
+ Reserva de Assento (Fileira, Assento e CPF do Cliente) (0,4)
+ Cancelamento de Reserva de Assento (Pelo CPF do Cliente) (0,2)
+ Relatório de Reservas (Assento + Cliente que reservou) (0,2)
+ Relatório de Assentos Livres (0,2)
+ Relatório de Cancelamento de Reservas de Assento (0,2)
