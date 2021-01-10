@@ -24,10 +24,10 @@ assentos cada uma.
 
 O programa deverá ter um menu para que o usuário possa navegar entre as
 opções abaixo:
- Cadastro de Cliente (Nome, CPF) (0,4)
- Consulta de Clientes (Pelo CPF) (0,4)
- Reserva de Assento (Fileira, Assento e CPF do Cliente) (0,4)
- Cancelamento de Reserva de Assento (Pelo CPF do Cliente) (0,2)
- Relatório de Reservas (Assento + Cliente que reservou) (0,2)
- Relatório de Assentos Livres (0,2)
- Relatório de Cancelamento de Reservas de Assento (0,2)
+ Cadastro de Cliente (Nome, CPF) 
+ Consulta de Clientes (Pelo CPF) 
+ Reserva de Assento (Fileira, Assento e CPF do Cliente) 
+ Cancelamento de Reserva de Assento (Pelo CPF do Cliente) 
+ Relatório de Reservas (Assento + Cliente que reservou) 
+ Relatório de Assentos Livres 
+ Relatório de Cancelamento de Reservas de Assento 
